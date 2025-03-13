@@ -6,10 +6,10 @@ This project is a Book Recommender Engine powered by Large Language Models (LLMs
 
 ### Features
 
-* Vector Indexing & Embeddings: Uses _intfloat/multilingual-e5-small_ to generate book embeddings for similarity-based recommendations.
-* Zero-Shot Classification: Utilizes _facebook/bart-large-mnli_ to classify books into relevant categories.
-* Sentiment Analysis: Analyzes book descriptions using _j-hartmann/emotion-english-distilroberta-base_.
-* Interactive UI: Built with Gradio for easy user interaction.
+* **Vector Indexing & Embeddings**: Uses _intfloat/multilingual-e5-small_ to generate book embeddings for similarity-based recommendations.
+* **Zero-Shot Classification**: Utilizes _facebook/bart-large-mnli_ to classify books into relevant categories.
+* **Sentiment Analysis**: Analyzes book descriptions using _j-hartmann/emotion-english-distilroberta-base_.
+* **Interactive UI**: Built with Gradio for easy user interaction.
 
 ### Tech Stack
 
